@@ -7,4 +7,5 @@ Please if you find useful this code cite the original by using the information c
 
 # Bibliography
 
-[1] E. J. Aguilera-Aguilera, A. Carmona-Poyato, F. J. Madrid-Cuevas, and R. Medina-Carnicer. The computation of polygonal approximations for 2d contours based on a concavity tree. Journal of Visual Communication and Image Representation, 25(8):1905–1917, November 2014. ISSN 1047-3203. doi: 10.1016/j.jvcir.2014.09.012.
+[1] E. J. Aguilera-Aguilera, A. Carmona-Poyato, F. J. Madrid-Cuevas, and R. Medina-Carnicer. The computation of polygonal approximations for 2d contours based on a concavity tree. Journal of Visual 
+Communication and Image Representation, 25(8):1905–1917, November 2014. ISSN 1047-3203. doi: 10.1016/j.jvcir.2014.09.012, [http://dx.doi.org/10.1016/j.jvcir.2014.09.012].
